@@ -1,0 +1,143 @@
+
+COMIDA FINLANDIA
+--------------------------------------------------
+
+{
+    "nombre": "Poronkäristys",
+    "pais": "Finlandia",
+    "plato": " principal",
+    "imagen": "",
+    "descripción": "la carne estrella de la comida de Finlandia es el reno (poro en finlandés). 
+		Esta carne de Laponia es la reina en cualquiera de sus presentaciones. 
+		Uno de los más comunes es servirlo con puré de patatas. 
+		Los finlandeses consideran que la carne de reno es una de las carnes más 
+		saludables del mundo. La verdad es que tiene un alto contenido de B-12, 
+		omega-3 y omega-6, y también contiene muy poca grasa.",
+    "ingredientes": "gramos de carne de reno, mantequilla, agua (o cerveza) y sal"
+  }
+
+
+---------------------------------------------
+
+{
+    "nombre": "Mustikkapiiraka",
+    "pais": "Finlandia",
+    "plato": "postre",
+    "imagen": "",
+    "descripción": "La temporada de bayas en Finlandia comienza en julio, mes en el que las moras, arándanos y diferentes frutos rojos invaden los bosques del norte de Europa para ofrecer a sus habitantes toda su dulzura. Particularmente, el mustikkapiiraka es uno de los postres típicos de Finlandia.",
+    "ingredientes": "margarina, azúcar y harina, además de huevos, yogurt griego y arándanos."
+  }
+
+----------------------------------------
+
+{
+    "nombre": "Lohikeitto: Sopa de Salmón",
+    "pais": "Finlandia",
+    "plato": "entrante",
+    "imagen": "",
+    "descripción": "Finlandia es una nación en gran parte unida por pequeños lagos y arroyos, 
+		luego envuelta en su lado occidental por el Océano Atlántico. 
+		Esto da como resultado tener salmón del Atlántico y de agua dulce en abundancia.",
+    "ingredientes": "3 patatas, cebolla, nata líquida,  rodajas de salmón, Sal, Aceite de oliva"
+  }
+
+
+-----------------------------------------------
+COMIDA EEUU:
+-----------------------------------------------
+
+{
+    "nombre": "Hot dog",
+    "pais": "EE.UU.",
+    "plato": "entrante",
+    "imagen": "",
+    "descripción": "El perrito caliente fue importado de Alemania y popularizado en los Estados Unidos, 
+			donde se convirtió en un alimento callejero para la clase trabajadora",
+    "ingredientes": "salchicha tipo Frankfurt, pan y salsa"
+  }
+
+
+
+--------------------------------------------
+
+{
+    "nombre": "BBC Ribs",
+    "pais": "EE.UU.",
+    "plato": "principal",
+    "imagen": "",
+    "descripción": "el término barbecue se usa como sinónimo de asar, en sus orígenes hacía 
+			referencia al método de cocción lenta con fuego indirecto. Cuando se empezó a 
+			hablar de barbecue, la carne se cocinaba durante horas en una fogata, lo que daba 
+			como resultado trozos muy suaves con sabores ahumados",
+    "ingredientes": "Costilla de cerdo 1.5 kg, Agua, Sal, Salsa Barbacoa abundante"
+  }
+
+
+------------------------------------------------
+
+{
+    "nombre": "Apple Pie",
+    "pais": "EE.UU",
+    "plato": "Postre",
+    "imagen": "",
+    "descripción": "El pastel de manzana es uno de los símbolos de la gastronomía estadounidense. 
+			Sin embargo el origen de este postre es difuso. En Inglaterra, 
+			el libro de cocina The Forme of Cury, editado en 1390 por los cocineros de
+			 Ricardo II de Inglaterra, cita una receta de la tarta de manzana llamada
+			 tartys in applis.",
+    "ingredientes": "5-6 manzanas 70 gr de azúcar moreno.canela molida.nuez moscada. mantequilla.sal.
+ 		masa quebrada"
+  }
+
+
+------------------------------------------
+COMIDA ESPAÑA
+------------------------------------------
+
+{
+    "nombre": "Tortilla de papatas",
+    "pais": "España",
+    "plato": "entrante",
+    "imagen": "https://www.veneciacatering.com/2958-large_default/tortilla-casera-recien-hecha.jpg",
+    "descripción": "Navarra en el año 1835 cuando el general Tomás de Zumalacárregui durante el sitio 
+		de Bilbao en la Primera Guerra Carlista buscaba un alimento nutritivo y barato para 
+		sus tropa",
+    "ingredientes": "patatas,  con o sin cebolla, sal huevos"
+  }
+
+
+--------------------------------------------
+
+{
+    "nombre": "paella",
+    "pais": "España",
+    "plato": "principal",
+    "imagen": "https://www.veneciacatering.com/2958-large_default/tortilla-casera-recien-hecha.jpg",
+
+    "descripción": "egún los expertos este platillo surgió en las zonas rurales de Valencia, 
+		entre los siglos XV y XVI, por la necesidad de los campesinos y pastores de una 
+		comida fácil de preparar y con los ingredientes que tenían a mano en el campo. 
+		Siempre la comían por la tarde. En sus orígenes, los ingredientes eran las aves, 
+		el conejo de campo o liebre, las verduras frescas que se tuvieran al alcance, 
+		arroz, azafrán y aceite de oliva, que se mezclaban en la paella con agua y ramas 
+		de naranjos. Todo se cocinaba a fuego lento.",
+    "ingredientes": "400 gramos de Arroz Bomba, pollo troceado, conejo troceado, judías verdes, garrofó fresco
+	 tomate troceado, aceite de oliva, azafrán, Pimentón rojo molido, romero, sal"
+  }
+
+
+-----------------------------------------------
+
+{
+    "nombre": "flan de huevo",
+    "pais": "España",
+    "plato": "postre",
+    "imagen": "https://static.guiainfantil.com/media/15692/c/flan-de-huevo-casero-al-estilo-tradicional-md.jpg",
+    "descripción": "se remontan hasta la época de los romanos, justo cuando empezaron a domesticar 
+		pollos y gallinas e incorporaros los huevos a sus recetas. Más adelante, 
+		surgió una variante, en la que ya estaban presentes los ingredientes principales del 
+		flan actual, el huevo y la leche, y también miel. En la Edad Media, este postre se 
+		consumía en época de cuaresma y fue entonces cuando comenzó a elaborarse con azúcar y 
+		caramelo, tal y como lo conocemos ahora.",
+    "ingredientes": "leche, huevos, azucar"
+  }

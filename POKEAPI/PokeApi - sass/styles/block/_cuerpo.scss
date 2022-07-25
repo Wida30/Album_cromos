@@ -1,0 +1,103 @@
+main {
+  background-image: linear-gradient(rgb(24, 91, 166), rgb(212, 160, 0));
+  padding: 4%;
+}
+
+.principalContainer {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+  gap: 3%;
+
+  @keyframes fondocambiante {
+    from {
+      background-color: rgb(255, 31, 31);
+    }
+
+    to {
+      background-color: rgb(212, 160, 0);
+    }
+  }
+
+  .carta {
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+    max-height: 40vh;
+    align-items: center;
+    border: solid black 2px;
+    margin-bottom: 1%;
+    box-sizing: border-box;
+    border-radius: 5%;
+    padding: 1%;
+    background-color: #d48e8e;
+    box-shadow: 0px 10px 13px -7px #000000, 7px 9px 16px 2px rgba(0, 0, 0, 0.64);
+    animation-name: fondocambiante;
+    animation-duration: 5s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+
+    &:hover {
+      filter: opacity(0.5);
+      box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+      transition: 0,5s;
+    }
+  }
+}
+
+.superior {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.posicion {
+  padding: 1%;
+  border-radius: 50%;
+  border: black solid 1px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+  background-color: $blue;
+  width: 25%;
+  text-transform: capitalize;
+  font-size: 1em;
+  text-align: center;
+}
+
+.experiencia {
+  text-transform: capitalize;
+  font-size: 0.7em;
+  text-align: center;
+}
+
+.expe_text {
+  font-size: 0.7em;
+}
+
+h3 {
+  text-transform: capitalize;
+  font-size: 1em;
+}
+
+.foto {
+  width: 100%;
+  height: 70%;
+  border: #000000 solid 2px;
+  background-color: rgb(245, 245, 220);
+  background-image: url(../../assets/dark-mosaic.png);
+  box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px,
+    rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+  margin-bottom: 5%;
+}
+
+.tittle_card {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 1em;
+  font-weight: bold;
+  background-color: $blue;
+  width: 100%;
+  color: whitesmoke;
+}

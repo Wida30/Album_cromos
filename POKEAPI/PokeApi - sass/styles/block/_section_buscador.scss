@@ -1,0 +1,28 @@
+.buscador {
+
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    gap: 5%;
+    padding: 2% 1%;
+
+    
+}
+
+label {
+
+text-transform: uppercase;
+font-weight: bold;
+font-size: 2rem;
+text-align: center;
+}
+
+input {
+   
+    width: 20%;
+    height: 10%;
+    position: relative;
+    left: 38%;
+    margin: 2%;
+}
